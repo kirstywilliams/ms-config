@@ -1,0 +1,6 @@
+info:
+  description: Default Microservice Application Config File
+  url: https://github.com/kirstywilliams/ms-config
+
+endpoints:
+  restart: enabled
